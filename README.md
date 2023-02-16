@@ -42,7 +42,7 @@ temperature is a basic program that takes the users temperature, and returns to 
 This is a basic text adventure game built using Python. This was built to demonstrate what I had leard about loops and comparisons in Python.
 
 
-[Basic Python Program Playlist]()
+[Basic Python Program Playlist](https://youtube.com/playlist?list=PL-zZ5EH-lCGL0p0_XdySWrN_7B4L-0CFD)
 
 # Development Environment
 * Visual Studio Code

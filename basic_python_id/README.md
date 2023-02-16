@@ -6,7 +6,7 @@ This program uses user input to make a user ID!
 [Personal Python Playlist](https://youtube.com/playlist?list=PL-zZ5EH-lCGL0p0_XdySWrN_7B4L-0CFD)
 
 # Source Code
-* [github.com](https://github.com/RykerSwensen/Basic_Python_ID)
+* [github.com](https://github.com/RykerSwensen/basic_python_programs/blob/master/basic_python_id/ID.py)
 
 # Development Environment
 * Visual Studio Code
